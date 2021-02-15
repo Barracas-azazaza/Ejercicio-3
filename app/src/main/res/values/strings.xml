@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ecuacion</string>
+    <string name="tvTitulo">Ecuación</string>
+    <string name="etNum1">Número 1</string>
+    <string name="etNum2">Número 2</string>
+    <string name="etNum3">Número 3</string>
+    <string name="tvResultado1"></string>
+    <string name="tvResultado2"></string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
